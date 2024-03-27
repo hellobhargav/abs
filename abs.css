@@ -1,0 +1,25 @@
+.cnbg {
+  background-image: url("assets/cn-bg.jpg");
+}
+ h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+#mealVoucher img  , #giftCards img{
+  width: 100%;
+  margin: 0%;
+  padding: 0;
+}   
+.gift {
+  background-image: url("assets/gift-bg.jpg");
+}
+.gift h1 {
+  color: white;
+}
+
+.gift p {
+  color: yellow;
+}
+#giftCards .col-6{
+    padding: 0;
+}
